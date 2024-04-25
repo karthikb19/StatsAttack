@@ -139,7 +139,7 @@ def upload_file():
         df.iloc[index, df.columns.get_loc("Description")] = description
 
         index += 1 
-    new_filename = 'processed_' + filename
+    new_filename = 'csv_calendar' 
     new_file_path = os.path.join(app.config['UPLOAD_FOLDER'], new_filename)
     df.to_csv(new_file_path, index=False)
     data_html = df.head(5).to_html(classes='table table-striped', index=False)
