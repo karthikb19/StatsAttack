@@ -1,0 +1,25 @@
+﻿Subject,Start Date,Start Time,End Date,End Time,All day event,Reminder on/off,Reminder Date,Reminder Time,Meeting Organizer,Required Attendees,Optional Attendees,Meeting Resources,Billing Information,Categories,Description,Location,Mileage,Priority,Private,Sensitivity,Show time as
+Research symposium,4/1/2024,8:30:00 AM,4/2/2024,4:15:00 PM,TRUE,TRUE,3/31/2024,6:00:00 AM,"Bhargav, Karthik Muralidhara (ycb7rx)",,,,,,"School: UVA
+ARL Interaction Type: Books 
+Pre-post-time: Yes
+RDS+SNE Group: Yes 
+Medium: In-person
+Description: UVA People",,,Normal,FALSE,Normal,3
+Tour,8/2/2012,9:30:00 AM,3/14/2024,12:00:00 PM,TRUE,TRUE,3/12/2024,6:00:00 AM,"Bhargav, Karthik Muralidhara (ycb7rx)",,,,,,"School: UMD
+ARL Interaction Type: Papers
+Pre-post-time: No
+RDS+SNE Group: No 
+Medium: Online 
+Description: UMD People",,,Normal,FALSE,Normal,3
+Info session,12/2/2026,2:00:00 PM,3/22/2024,8:00:00 PM,TRUE,TRUE,3/20/2024,6:00:00 AM,"Bhargav, Karthik Muralidhara (ycb7rx)",,,,,,"School: UNC
+ARL Interaction Type: Onlline 
+Pre-post-time: 4:00
+RDS+SNE Group: No
+Medium: Zoom 
+Description: UNC People",,,Normal,FALSE,Normal,3
+Consultation,3/29/2024,11:00:00 PM,3/30/2024,1:00:00 AM,TRUE,TRUE,3/28/2024,6:00:00 AM,"Bhargav, Karthik Muralidhara (ycb7rx)",,,,,,"School: Duke
+ARL Interaction Type: Encyclopedia 
+Pre-post-time: 12:30 
+RDS+SNE Group: Medium
+Medium: Microsoft Teams 
+Description: Duke People",,,Normal,FALSE,Normal,3
